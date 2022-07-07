@@ -1,10 +1,7 @@
-const hello = () => "hi";
+import { init, exit } from "myPackage";
 
-class Block {
-  constructor(private data: string) {}
-  static hello() {
-    return "Hi";
-  }
-}
+init({
+  url: "url"
+});
 
-document.querySelector();
+exit(7);
