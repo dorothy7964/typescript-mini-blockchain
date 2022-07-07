@@ -6,3 +6,5 @@ class Block {
     return "Hi";
   }
 }
+
+document.querySelector();

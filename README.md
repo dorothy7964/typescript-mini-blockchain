@@ -1,93 +1,3 @@
-readme.so logo
-
-light
-Download
-SectionsReset
-
-Delete
-Click on a section below to edit the contents
-
-Click on a section below to add it to your readme
-
-Custom Section
-
-Acknowledgements
-
-API Reference
-
-Appendix
-
-Authors
-
-Badges
-
-Color Reference
-
-Contributing
-
-Demo
-
-Deployment
-
-Documentation
-
-Environment Variables
-
-FAQ
-
-Features
-
-Feedback
-
-Github Profile - About Me
-
-Github Profile - Introduction
-
-Github Profile - Links
-
-Github Profile - Other
-
-Github Profile - Skills
-
-Installation
-
-Lessons
-
-License
-
-Logo
-
-Optimizations
-
-Related
-
-Roadmap
-
-Run Locally
-
-Screenshots
-
-Support
-
-Tech
-
-Running Tests
-
-Usage/Examples
-
-Used By
-Editor
-
-#### ompilerOptions 속성
-
-| 옵션     | 옵션 값 | 설명                                                                  |
-| :------- | :------ | :-------------------------------------------------------------------- |
-| `outDir` | `build` | 자바스크립트 파일이 **생성될 디렉토리**를 지정                        |
-| `target` | `ES6`   | **어떤 버전**의 자바스크립트로 타입스크립트를 컴파일 하고 싶은지 작성 |
-
-Preview
-Raw
-
 ## Installation
 
 새 nodeJs 프로젝트 추가
@@ -119,7 +29,8 @@ Raw
 
 #### ompilerOptions 속성
 
-| 옵션     | 옵션 값 | 설명                                                                  |
-| :------- | :------ | :-------------------------------------------------------------------- |
-| `outDir` | `build` | 자바스크립트 파일이 **생성될 디렉토리**를 지정                        |
-| `target` | `ES6`   | **어떤 버전**의 자바스크립트로 타입스크립트를 컴파일 하고 싶은지 작성 |
+| 옵션     | 옵션 값          | 설명                                |
+| :------- | :--------------- | :---------------------------------- |
+| `outDir` | `build`          | TS에 컴파일할 코드를 찾을 위치 지정 |
+| `target` | `ES6`            | 컴파일할 JS의 버전을 지정           |
+| `lib`    | `["ES6", "DOM"]` | 코드가 실행될 환경을 지정           |
