@@ -24,6 +24,14 @@ nodemon 설치 : 자동으로 커맨드를 재실행
   npm i nodemon
 ```
 
+@types/node 설치 : nodejs를 위한 타입 설치
+
+```bash
+  npm i -D @types/node
+```
+
+[DefinitelyTyped Github 바로가기](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types)
+
 <br><br>
 
 ## 실행
