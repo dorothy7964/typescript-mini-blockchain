@@ -110,7 +110,7 @@ export function exit(code) {
 
 블럭체인은 여러개의 블록이 사슬처럼 묶인 것이다.
 
-**hash**는 <span style='background-color: #fff5b1'>블록의 고유 서명</span>과 같은 것이다.
+**hash**는 **블록의 고유 서명**과 같은 것이다.
 
 해쉬의 장점은 이상하게 생긴 데이터 표시면서 결정론적이라는 것이다.
 
@@ -118,7 +118,7 @@ export function exit(code) {
 
 123 = ;akaklsjfk
 
-<span style='background-color: #fff5b1'>데이터가 변하지 않으면 해쉬값도 변하지 않는다.</span>
+**데이터가 변하지 않으면 해쉬값도 변하지 않는다.**
 
 이런 방법이 블록체인에서 블록을 보호하는 방법이다.
 
