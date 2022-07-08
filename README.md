@@ -1,3 +1,9 @@
+## 🚀 노션 정리
+
+[노션 바로가기](https://www.notion.so/5a79a2f5d2ab41d2b3e67142fd14e369?v=b9cedb4372ad4ad591c6b3d13490f2a7)
+
+<br><br>
+
 ## Installation
 
 새 nodeJs 프로젝트 추가
